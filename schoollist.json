@@ -1,0 +1,16 @@
+[
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "stevenson.edu",
+      "name": "Stevenson University",
+      "web_page": "http://www.stevenson.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mbl.edu",
+      "name": "Marine Biological Laboratory",
+      "web_page": "http://www.mbl.edu/"
+  }
+  ]
